@@ -1,5 +1,7 @@
 # cake store landing page
+
 This website is a landing page for a cake store
+
 ## visual studio code is the tool used to build this
 
 ## brief view of the website
@@ -16,11 +18,15 @@ This website is a landing page for a cake store
 
 ## problem faced 
 making it responsive with tailwind
+
 bringing out my idea using tailwind
+
 setting up tailwindcss in vs code
 
 ## what i learnt
+
 how to set up tailwindcss in vs code
+
 how to use tailwind for design in vs code
 
 ## what i could do better

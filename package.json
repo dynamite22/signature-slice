@@ -29,6 +29,7 @@
     "start": "npm run build:css && ...",
     "build:css": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --minify --watch",
     "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css"
+    "build": "[my-framework] build --output public"
   },
   "keywords": [],
   "author": "",
